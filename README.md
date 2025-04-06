@@ -9,10 +9,10 @@ A timeseries of solid ice discharge from Køge Bugt N, Køge Bugt C, and Køge B
 ## Terminus Position
 Terminus positions derived between 2016 and 2022 were downloaded from the MEaSUREs Weekly to Monthly Greenland Outlet Glacier Terminus Positions from Sentinel-1 Mosaics (2018-2022; https://nsidc.org/data/nsidc-0781/versions/1). Terminus positions derived between 2022 and 2024 were then manually digitised from Landsat-8 and Landsat-9 imagery; where suitable optical imagery was unavailable, MEaSUREs Sentinel-1A and Sentinel-1B synthetic aperture radar (SAR) mosaics were employed (https://doi.org/10.5067/WXQ366CP8YDE). Terminus position change was conducted using MaQiT (https://liverpoolgee.wordpress.com/maqit/), using the curvilinear box method. 
 
-# Bed Elevation 
+## Bed Elevation 
 Bed elevation profiles were sampled from BedMachine v5 (Morlighem et al., 2022), along the central flowlines of Køge Bugt N, Køge Bugt C and Køge Bugt S, respectively. 
 
-# Ice Surface Elevation 
+## Ice Surface Elevation 
 For the ice surface profiles shown in Figure 2a, 3a, and 4a, ice elevation was sampled from BedMachine v5 (Morlighem et al., 2022). For more detailed analysis, 2-m resolution ArcticDEM strips (Porter et al., 2022) were downloaded and co-registered using the pDEMtools software package (Chudley & Howat, 2024; https://github.com/trchudley/pdemtools). 
 
 ## Surface Runoff 
