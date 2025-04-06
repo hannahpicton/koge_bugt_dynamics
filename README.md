@@ -13,7 +13,7 @@ Terminus positions derived between 2016 and 2022 were downloaded from the MEaSUR
 Bed elevation profiles were sampled from BedMachine v5 (Morlighem et al., 2022), along the central flowlines of Køge Bugt N, Køge Bugt C and Køge Bugt S, respectively. 
 
 ## Ice Surface Elevation 
-For the ice surface profiles shown in Figure 2a, 3a, and 4a, ice elevation was sampled from BedMachine v5 (Morlighem et al., 2022). For more detailed analysis, 2-m resolution ArcticDEM strips (Porter et al., 2022) were downloaded and co-registered using the pDEMtools software package (Chudley & Howat, 2024; https://github.com/trchudley/pdemtools). 
+Basic ice surface profiles were sampled from BedMachine v5 (Morlighem et al., 2022). For more detailed analysis, 2-m resolution ArcticDEM strips (Porter et al., 2022) were downloaded and co-registered using the pDEMtools software package (Chudley & Howat, 2024; https://github.com/trchudley/pdemtools). 
 
 ## Surface Runoff 
 Monthly estimates of cumulative surface runoff were extracted across the hydrological basins of each outlet glacier from Mankoff (2020), provided on the GEUS dataverse (https://doi.org/10.22008/promice/data/ice_discharge/d/v02). These estimates were derived from two regional climate models (RCMs): (i) Modèle Atmosphérique Régional (MAR), and (ii) Regional Atmospheric Climate Model (RACMO). 
