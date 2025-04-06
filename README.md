@@ -1,5 +1,7 @@
 # Køge Bugt Ice Dynamics 
 
+This repository is associated with the manuscript ‘Self-organised criticality: Multi-year ice dynamics at Køge Bugt C glacier controlled by bed topography’, to be submitted to Geophysical Research Letters. 
+
 ![FIgure_1](https://github.com/user-attachments/assets/129afec6-bdc3-4564-81b2-ea85576cdb76)
 
 ## Ice Surface Velocity 
