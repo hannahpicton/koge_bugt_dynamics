@@ -1,8 +1,8 @@
 # Køge Bugt Ice Dynamics 
 
-This repository is associated with the manuscript ‘Multi-year ice dynamics at Køge Bugt C glacier controlled by bed topography’, to be submitted to Geophysical Research Letters. 
+This repository is associated with the manuscript ‘Multi-year ice dynamics at Køge Bugt Central glacier controlled by bed topography’, to be submitted to Geophysical Research Letters. 
 
-![FIgure_1](https://github.com/user-attachments/assets/129afec6-bdc3-4564-81b2-ea85576cdb76)
+![Figure_1_full_name](https://github.com/user-attachments/assets/a235469f-48e9-437a-b491-a48b6c07ceb2)
 
 ## Ice Surface Velocity 
 A timeseries of ice velocity was extracted across Køge Bugt N, Køge Bugt C, and Køge Bugt S, using NASA’s ITS_LIVE product (https://its-live.jpl.nasa.gov/). We employed the beta Version-2 ITS_LIVE image-pairs (Gardner et al., 2024) that include surface velocities derived from Landsat -4, -5, -7, -8, -9 (Gardner et al., 2018), Sentinel-1A/-1B, and Sentinel-2A/-2B (Lei et al., 2022). The maximum time interval for each given image-pair was set to 12 days. Ice velocity was sampled at 3 km intervals along the centreline of each respective glacier (T, T3, T6, T9). 
