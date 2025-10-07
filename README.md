@@ -1,6 +1,6 @@
 # Køge Bugt Ice Dynamics 
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16982153.svg)](https://doi.org/10.5281/zenodo.16982153)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17289814.svg)](https://doi.org/10.5281/zenodo.17289814)
 
 This repository is associated with the manuscript ‘Multi-year ice dynamics at Køge Bugt Central glacier controlled by bed topography’, submitted to Geophysical Research Letters. 
 
